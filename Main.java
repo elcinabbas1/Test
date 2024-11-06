@@ -4,5 +4,6 @@ public class Main {
         if(true){
             System.out.println("Abbasi");
         }
+        System.out.println("Abbasiler");
     }
 }
